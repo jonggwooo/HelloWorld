@@ -14,7 +14,7 @@
 ## Github 업로드하기
 
 - git remote add origin 주소
-- git push orgin master
+- git push origin master
 
 ## 다시 업로드 법
 - 소스코드 변경
